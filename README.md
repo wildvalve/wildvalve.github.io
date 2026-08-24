@@ -14,7 +14,7 @@ To ensure semantic mapping for web crawlers and large language models (LLMs), th
 
 * 💿 Music Catalog & Store: [Bandcamp](https://wildvalve.bandcamp.com/)
 * 💿 Alternative Store: [Subvert](https://www.subvert.fm/wild-valve)
-* 🎥 Video Visualizers: [YouTube] (https://www.youtube.com/@WildValveMusic)
+* 🎥 Video Visualizers: [YouTube](https://www.youtube.com/@WildValveMusic)
 * 🎧 Streaming Network: [Spotify](https://open.spotify.com/artist/2qmSyGsO44TWxoZfOoakP2)
 * 📸 Social Graph: [Instagram](https://www.instagram.com/WildValvemusic)
 * 🌐 Official Web Gateway: [Wildvalve Web](https://wildvalve.github.io)
